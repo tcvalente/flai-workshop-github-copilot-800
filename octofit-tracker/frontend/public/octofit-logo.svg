@@ -1,0 +1,18 @@
+<svg width="160" height="50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dumbbell Icon -->
+  <g transform="translate(5, 15)">
+    <circle cx="5" cy="10" r="4" fill="#ff6b35"/>
+    <rect x="7" y="8" width="16" height="4" rx="1" fill="#ff6b35"/>
+    <circle cx="25" cy="10" r="4" fill="#ff6b35"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="38" y="32" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#ff6b35">
+    OctoFit
+  </text>
+  
+  <!-- Tracker text -->
+  <text x="112" y="32" font-family="Arial, sans-serif" font-size="16" font-weight="normal" fill="#f7931e">
+    Tracker
+  </text>
+</svg>
